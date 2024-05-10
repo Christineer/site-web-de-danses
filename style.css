@@ -1,0 +1,28 @@
+
+body{
+	background-color:violet;
+	margin-left:23px;
+	margin-rigth:23px;
+	margin-bottom:23px;
+	border-style:inset;
+	border-color:blue;
+	opacite:0,5;
+	text-align: center;
+	text-decoration: underline;
+	vertical-align:baseline;
+	cursor: pointer;
+bloc video{
+	position:absolute;
+	height:100vh;
+	width:100%;
+	overflow:hidden;
+	position:absolute;
+	min-width:100%
+	min-height: 100%
+	top:50%;
+	left:50%;
+	
+}
+
+
+}
